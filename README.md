@@ -37,4 +37,3 @@ A simple and easy-to-use stopwatch built with HTML, CSS, and JavaScript.
 
 - Tested in Google Chrome, Mozilla Firefox, and Safari.
 
-Demo: http://127.0.0.1:5500/
